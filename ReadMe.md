@@ -8,4 +8,9 @@ CoTrack uses Etherpad which is an open-source real-time collaborative editor to 
 
 #### Dashboard
 To visualize the students' activities data from physical and digital spaces, an interactive web-based dashboard has been developed for teachers. It allows the teacher to see the speaking time, group-dynamics, writing activities for each group. The teacher can also visualize the same data for the entire duration of activity using different time-window.  
+<br/>
+<h4> A snapshot of Dashboard
+<br/>
+<br/>
+
 ![](dash.png)
